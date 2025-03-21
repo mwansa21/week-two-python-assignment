@@ -1,2 +1,2 @@
-#PLP SOFTWARE ENGINEERING BOOTCAMP
-## week-two-python-assignment
+PLP SOFTWARE ENGINEERING BOOTCAMP
+ week-two-python-assignment
